@@ -407,15 +407,24 @@
     
 }
 #contact h3{
+    font-size:25px;
+    text-align: center;
+    font-weight: bold;
+    background:linear-gradient(to right,#fff,#675491);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+    letter-spacing: 4px;
+}
+#contact h4{
     
     font-size:20px;
-    font-weight: bold;
+    
     background:linear-gradient(to right,#fff,#675491);
     -webkit-background-clip:text;
     -webkit-text-fill-color:transparent;
     letter-spacing: 2px;
     text-align: center;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
 }
 #contact .row i{
     color:#fff;
