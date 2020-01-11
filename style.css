@@ -433,13 +433,6 @@
     
     
    
-    /*content:'';
-    background: #fff;
-    display:block;
-    height: 3px;
-    width:250px;
-    margin:10px auto;
-    font-family: 'Poppins';*/
    
 }
 #contact{
@@ -508,6 +501,10 @@
   }
   #contact .fa-linkedin {
     background: #007bb6;
+    color: white;
+  }
+  #contact .fa-twitter {
+    background: #00acee;
     color: white;
   }
     
