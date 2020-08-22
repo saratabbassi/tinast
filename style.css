@@ -212,6 +212,33 @@
     text-align: center;
 
 }
+#clothes4{
+    margin: 10px 0;
+   
+}
+
+#clothes4 img{
+    height:300px;
+    width: 280px;
+    padding:10px;
+  
+}
+#clothes4 .profile .img-box{
+    opacity:1;
+    display:block;
+    position:relative;
+
+    }
+#clothes4 h3{
+    font-size:30px;
+    font-weight: bold;
+    background:linear-gradient(to right,#494964,#675491);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+    letter-spacing: 1px;
+    text-align: center;
+
+}
 
 
 
